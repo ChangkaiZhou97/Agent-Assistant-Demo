@@ -7,4 +7,4 @@ Simple demo of using agents to boost students' research.
 
 3. Results validation: https://chatgpt.com/share/69fc5cd1-f298-83ea-a3de-67ef5debc032
 
-Note that '/src/.R' is generated functions, '/src/.ipynb' is the function test on sample data. Since the output is interactive 3D, which may not be shown in the .ipynb, the corresponding screanshots are in '/visualization'.
+Note that `/src/.R` is generated functions, `/src/.ipynb` is the function test on sample data. Since the output is interactive 3D, which may not be shown in the .ipynb, the corresponding screanshots are in `/visualization`.
